@@ -1,0 +1,36 @@
+1. Give two primary standards for acids and one primary standard for bases.
+2. The Nazene sodium fusion test is used for the detection of nitrogen sulphur and halogen in the organic compound. State what happens to any nitrogen and sulphur in an organic compound after fusion with sodium
+3. What is the main difference between the setup for simple distillation and for fractional distillation.
+4. At 850K, the equilibrium constant of the decompostion of hydrogen iodide according to the reaction 2HI going reversibly to H2 + I2 is 1.0 *10^-2. Given that the equilibrium concentration of hydrogen gas is 0.30mol/dm3. Calculate the equilibrium concentration of hydrogen iodide.
+5. 432mg of a metal M reacts completely with 60cm3 of 0.18mol/dm3 of an acid A. Given that the equation of the reaction is M + A --> MA, identify the metal M.
+6. Find the average molecular speed of a gas at 300K composed of molecules each of mass 5.3 * 10^-26kg.
+7. Determine the empirical formula of the compound given the percentage composition of element present as 40.0% Carbon, 46.6% Nitrogen, 13.4 % Hydrogen
+8.What mass of oxygen is present in 1.1g of butanoic acid.
+9.In the decay series of uranium-238 atomic number 92. What will be the atomic number of the resulting nuclide after 4 alpha decays and two beta decays.
+10. What volume of water must be added to 12.0cm3 of 0.50 mol/dm3 HBr solution to obtain a concentration of 0.15mol/dm3 solution
+11. Propane undergoes an incomplete combustion in limited oxygen to produce carbon dioxide and water. What mass of carbon dioxide is produced from one mole of propane.
+12. Calculate the percentage composition of carbon in uric acid (C5H4N4O3)
+13. 1.8 moles of an ideal gas is present in a container at a temperature of 400K and a pressure of 166 pascal. What is the volume of the container
+14. 8.64g of a monoprotic acid requires 80.0cm3 of 0.45mol/dm3 of potassium hydroxide at the equivalent point. What is the molar mass of the acid.
+15. Determine the sum of the stoichiometric coefficients of reactants and products formed when methanol undergoes complete combustion in air.
+16. What is the molecular weight of 3-methyl pentane.
+17.Determine the sum of the coefficient of all reactants and products in the balance equation of the reaction H2SO4 + Mg --> H2O + S + Mg2SO4
+18. How many electrons are present in the second principal energy level n=2
+19. If it takes 52.0s for a gas of molar mass 64.0 to effuse from a vessel through a pinhole how long will it take methane gas to effuse from the vessel.
+20. Explain why metals can be beaten into flat sheets
+21. Give the expression for the half life a radioisotope
+22. What is the minimum mass of sodium carbonate that must be heated to produce enough carbon dioxide that reacts with potassium hydroxide to form 2.76g of potassium carbonate.
+23.Upon evaporation of 200.0cm3 of a saturated solution of a sparingly soluble salt of molar mass 242g/mol, the mass of the dry substance obtained is 9.68mg. Determine the solubility product of the salt given that it is formed between a group 2 element and a group 17 element.
+24. The oxidation state of hypothetical metal M in its oxide is 2.4. Given that the atomic mass of M is 42g/mol. What is the molar mass of the oxide
+25. A solution was formed by dissolving 0.915g of potassium perbromate in enough water to obtain a total volume of 200.0cm3. What is the molarity of the solution. Atomic mass of Bromine is 80.0g/mol 
+26. Give the sum of the whole number coefficients of the reactants and products in the balanced equation of the reaction that occurs during the displacement reaction of lead with phosphoric acid.
+27. The reaction between a nuclide and curium-246 atomic number 96 produces nubelium 254 atomic number 102 and 5 neutrons. Identify the nuclide.
+28. Given that the enthalpy of formation of Strontium oxide is -590.0kJ/mol. Determine the enthalpy change when 5.20g of Strontium oxide is formed. Mr(Strontium) = 88.0g/mol
+29.  Give the sum of the whole number coefficient of reactants and products in a balanced metathesis reaction of potassium sulphate and cobalt (II) chloride.
+30. When certain foods are cooked at high temperatures sugars such as glucose and fructose can react with the free amino acids as665 
+31. What is the active chemical in dynamite
+32. Give the full name of the scientist who invented dynamite
+33. Define Avogadro's constant
+34. 2 half cells: M+/M and Q+/Q where M and Q are metals have the electrode potentials: 1.20 and -0.850 Volts respectively. Which of the two metals can react with dilute mineral acid to release hydrogen gas.
+35. Give the main difference in the definition of an acid according to the Arrhenius theory and according to the Bronsted theory
+36. Butane isomerizes to 2-methyl propane or isobutane in an equilibrium process. If a 1.00dm3 flask is charged with 2.00mol of butane at 30degree celsius and the gas allowed to come to equilibrium, calculate the equilibrium concentration of butane and isobutane at 30 degree celsius given that the equilibrium constant Kc is 2.50

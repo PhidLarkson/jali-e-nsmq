@@ -1,0 +1,18 @@
+1. For a metal to displace hydrogen from the dilute mineral acids that metal has to have a positive electrode potential
+2. A mole of alumina would require 3 faraday of charge in electrolysis  to discharge one mole of aluminium.
+3. In the electrolysis of dilute sodium chloride solution using platinum electrodes the concentration of the salt increases in the course of the electrolysis
+4. Carbon(II)oxide from the exhaust of motor vehicles can cause acid rain
+5. If the engine of a motor vehicle is in perfect condition no gas that cause acid rain will be found in its exhaust fumes.
+6. In a forest region away from any anthropogenic activity, rain water cannot dissolve limestone.
+7. The molar heat capacity at constant volume of a diatomic ideal gas is greater than that for a monoatomic ideal gas.
+8. The molar heat capacity at constant volume of a diatomic ideal gas is twice that for a monoatomic ideal gas
+9. The molar heat capacity at constant volume of a diatomic ideal gas is greater than that for a monoatomic ideal gas because a diatomic molecule has a greater number of degree of freedom than a monoatomic one.
+10. When methylbutanoate is  refluxed with either dilute aqueous HCl or NaOH its pleasant smell will eventually disappear
+11. A gaseous mixture of methane and chlorine will not react in the dark even when heated.
+12. Subjecting pure ethene alone to high pressure will cause addition polymerization to take place.
+13. The element with atomic number 21 obeys the Auf bau's principle
+14. The valence configuration of 3s2 3px1py1pz1 is more stable than 3s2 3px2py1
+15. The valence configuration of 3d10 4s1 is more stable than 3d9 4s2
+16. Doubling the temperature of a given amount of gas from 25degree celsius to 50degree celsius doubles its volume at a constant pressure
+17. 5.00g of neon gas atomic mas 20.0 will occupy the same volume as 4.40g of CO2 at 100kPa and 27degree celsius.
+18. Argon atomic mass 40 will effuse from the same pinhole twice as fast as bromine gas atomic mass 80.0 at the same temperature and pressure

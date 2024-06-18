@@ -1,0 +1,32 @@
+1. Give the relative positions of the slug and the molten metallic iron in the blast furnace during the extraction of iron and explain why those relative postitions
+2. Biotechnology may be used to extract gold from its ore. Explain how this is done.
+3. Bauxite usually has sand and iron (III) oxide as impurities. Explain how aluminium (III) oxide is seperated from these impurities.
+4. Name the reagent that can be used to convert ethyl-benzene to benzoic acid
+5. What reagent are needed for the iodoform test
+6. Name the product formed when 1-butene is treated with dilute neutral KMnO4 solution. 
+7. Ammonia gas burns in pure oxygen gas to nitrogen gas and steam. The balance equation for the reaction is as follows: 4NH3(g) + 3O2(g)--> 2N2(g) + 6H2O(g). Also 	consider the following bond energies all in kj/mol. N-H: 386, O-H:459, N triple bond N: 942, N=O: 607, and oxygen molecule: 494. a. Calculate the energy 	required to break all the necessary bonds in the combustion of ammonia gas in pure oxygen. b. If the energy required to break all the bonds in the combustion 	is 6114kJ, calculate the enthalpy change for the reaction. c. In the presence of a platinum catalyst ammonia burns in oxygen to give nitrogen(II) oxide and 	steam and the balance equation is as follows: 4NH3(g) + 5O2(g)---> 4NO(g) + 6H2O(g). If the energy required to break all the necessary bonds is 712kJ and 	assuming that the NO molecule contains nitrogen oxygen double bond. Calculate the enthalpy of reaction.
+8. A metal alloy made from aluminium, magnesium, copper, and steel has the composition Al:18.0%, Mg: 12.0%, Cu: 25.0%, the rest is steel which is 98.5% iron and 1.5% 	carbon. Calculate the mass in g of carbon in a 2.00g alloy.
+9. Both CaO and anhydrous CaCl2 can be used to dry wet gases. Which solid will be suitable for CO2 gas
+10. Give the number of emission lines that can be observed for a gas of hydrogen atoms in which atoms are excited to the state with quantum number n = 4
+11. If you are given a water soluble salt, and you are required to dissolve it in approximately 100cm3 of water, which glassware would me most appropriate.
+12. What are the main features of a laboratory pan balance
+13. Give two main differences between a watch glass and an evaporating disk
+14. The decay constant of a radioactive substance is 7.7 *10^-3s^-1. Calculate the half life of the substance.
+15. A radiactive substance has a half-life of 5 hours. What percentage of the initial activity will be left after 20hours
+16. Atomic size of elements is a periodic property. Use a period of the periodic table to illustrate this.
+17. Enthalpy of ionization energy is another periodic property of element. Use group 3 or 13 of the periodic table to illustrate this.
+18. Find the work done by a fix quantity of an ideal gas when its value changes from 2.0m3 to 5.0m3 at a constant pressure of 4.0kPa.
+19. A fixed quantity of an ideal gas undergoes an isobaric process in which its volume changes from 0.50m3 to 4.5m3 and 840kJ of work is done by the gas what is the 	process pressure.
+20. A fix quantity of an ideal gas with an initial volume of 2.0m3 undergoes an isobaric process at a pressure of 120kPa. Find the final volume of the gas if the work 	done by the gas is 720kJ.
+21. The first step in the extraction of iron from its ore pyrite/pyritase FeS2 involves roasting the ore in the presence of oxygen to form iron (III) oxide and 	sulphur(IV) oxide. Give a balanced equation for this reaction.
+22. Phosphorus (V) oxide (P4O10) reacts with water to form tetraoxosulphate (V) acid. Give a balanced equation for the reaction.
+23. The MnO4- ion is reduced to the Mn2+ ion in acid solution by hydrogen peroxide (H202) producing gaseous oxygen and water. Give a balanced equation for the 	reaction.
+24. Give the product when lithiumtrioxonitrate(V) is heated
+25. Give the product when silvertrioxonitrate(V) is heated
+26.Pick the pairs from the list of compounds whose solution will act as a buffer. HCl, NH3, H2PO4-, NaOH
+27. Calculate the concentration of an Na2CO3 solution of 20.0cm3 if it requires a titre of 24.0cm3 of 0.0950mol/dm3 of an HCl solution in a titration using 	methylorange as indicator
+28. Iron(II) reacts with acidified solution of MnO4- in the ratio of 5:1. Calculate the concentration of a solution of Fe2+ ions if 20.0cm3 of it required 15.0cm3 of 	0.120mol/dm3 of acidified solution of MnO4- for complete reaction.
+29. The group one elements are soft metallic solids with low melting points. What accounts for this physical nature.
+30. Group one elements are the most reactive metallic elements. What could be the reason for this.
+31. Use the reactions with water to illustrate the reactivity of group one metals down the group.
+32. Give the atomic number and the mass number of the nuclide produced after the given decay steps. a. Neptunium-232, atomic number 93 decays by beta plus emission to a nuclide that decays by alpha emission. b. Polonium-214, atomic number 84 decays by alpha emission to a nuclide that also decays by alpha emission. c. Neptunium-237 atomic number 93 decays by alpha emission to a nuclide that decays by beta minus emission.

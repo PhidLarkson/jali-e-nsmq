@@ -1,0 +1,34 @@
+135. How does the strength of the electric field produced between two very large parallel plates carrying equal but opposite charge vary with distance from one of the plates?  
+    136. The gravitational field strength on the surface of a uniform spherical body is proportional to the radius of the body. True/False
+    137. The electric field inside a positively charge hollow conducting sphere is directed towards the centre of the sphere.True/False
+    138. The magnitude of the electric field inside the hollow conducting sphere increase linearly from the centre of the sphere to it surface. True/False  
+    139.  The change in kinetic energy of a particle equals the net work done by the forces acting on it. True/False
+    140. The net work done by  the forces of friction acting on the object increases the kinetic energy of the object. True/False
+    141. Only the component of the net force parallel to the displacement of an object can change the kinetic energy of the object. True/False
+    142. The coulomb is the SI unit of electric charge and is one of the base units in the SI system.True/False
+    143. The ampere is the SI unit of electric current and is a derived unit, one ampere being equal to a charge flow rate of one coulomb per second.
+    144. The SI unit of electric power is the watt and it is a derived unit, one watt being equal to one kilogram meter squared per second cubed.
+    145. When a proton enters a magnetic field perpendicular to its velocity,its speed increases. True/False
+    146. When n electron enters a magnetic field perpendicular to its velocity, its speed increases. True/False 
+    147. When a proton enters a magnetic field perpendicular to its velocity, its speed decreases. True/False
+    148. A vehicle traveling from town A to town B accelerates uniformly from rest at 0.20 m/s^2 for 50 s, continues at constant speed for 450s then decelerates uniformly to rest at town b in 20 s.
+    149. The initial portion of speed time graph of the vehicle is a straight line with positive slope. True/False
+    150. The portion of the speed time graph of the vehicle between t=50s and t=500s is horizontal. True/False
+    151. The magnitude of the slope of the speed time graph of the vehicle at the start of the journey is greater than the magnitude of its slope towards the end. True/FALSE
+    152. The acceleration of an object moving in a circle with constant speed is constant and is proportional to the square of the speed.
+    153. When the magnitude of the acceleration of an object moving in a circle is not constant, the speed of the object varies. True/False
+    154. The magnitude of the acceleration required to maintain an object in a circular path is inversely proportional to the radius of the circle.
+    155. For two surfaces in contact, the limiting static friction force is independent of the normal force on each of the surfaces.
+    156. For two surfaces in contact, the static friction force is the greatest just before the onset of relative motion. True/False
+    157.  The coefficient of kinetic friction equals the limiting coefficient of static friction.True/False
+    158. The upper fixed point on the Fahrenheit scale is assigned the temperature 100 degrees F. True/False
+    159. The interval between the steam point and the ice point on the Fahrenheit scale is divided into 180 units. True/False
+    160. The energy of a photon is inversely proportional to its wavelength. True/False
+    161. The linear momentum of a photon is directly proportional to its wavelength. True/False
+    162. The energy of a photon equals the product of its linear momentum and the speed of light in vacuum. True/False
+    163. Two objects in the thermal equilibrum have the same temperature as well as the same pressure. True/False
+    164. When two objects are separately in thermal equilibrium with a third object, the two objects are in thermal equilibrium. True/Falsse
+    165. When two objects at different temperatures are placed in thermal contact,energy is spontaneously transferred from the object with the higher temperature to the one with the lower temperature. True/False
+    166. An object whose acceleration is proportional to but opposite its displacement moves at constant velocity. True/False
+    167.  An object whose acceleration is proportional to but opposite to its displacement moves at constant speed. True/False   
+    168. The velocity of a moving object cannot be zero if its acceleration is proportional to but opposite its displacement. True/False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

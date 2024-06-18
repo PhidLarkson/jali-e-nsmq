@@ -1,0 +1,30 @@
+0. When connected to a 6V battery, a lamp allows a current of 2 Amps to flow. When two such lamps are connected, what will the current be?
+1. Explain why a particular battery does not give the same current when connected in different circuits.
+2. What is the Si unit for specific latent heat of fusion
+3. What is the SI unit for moment and momentum
+4. An object on a rough plane inclined at exactly 60 degrees to the horizontal is given an initial push down the plane. The coefficient of friction between the object and the plane is 3.0
+5. What must the initial speed of the object be if it moves 1.0 m before stopping 
+6. If the initial speed of the object is 4.1m per second… how far down the plane does it move before stopping 
+7. If the object moves 2.0 m before stopping, what is the duration of its motion
+8. A cylinder of mass 0.200kg and moment of inertia 0.250kg/m^2 slides and rolls on a horizontal surface. Find the kinetic energy of the cylinder for the given translational speed V and angular speed .
+9. The work function of a metal is 4eV. Calculate the speed of the fastest electrons that can be ejected from the metal when it is illuminated by 5eV protons 
+10. The work function of a photo cathode is 3.0eV. Calculate the speed of the fastest electron that can be ejected by 4.8 eV photons 
+11. Calculate the speed of the fastest electron that can be ejected from a metal of work function 2.8eV when it is illuminated by 3.25eV photons 
+12. What is the linear momentum of a 5kg object moving at 4m/s due East 
+13. A moving object has a linear momentum of magnitude 50Ns. What force is applied parallel to the direction of motion of the object can stop it in 5s.
+14. Ag what speed will the magnitude of linear momentum of a moving 2kg object be 80Ns   A 2 nC charged particle moving at 10 m/s enters a uniform 0.4 T magnetic field with its velocity perpendicular to the field. No other fields are present
+15. What is the change in kinetic energy of the particle after 10s
+16. What is the work done by the magnetic field on the charged particle when the particle travels a distance of 0.1m?
+18. Find the net force on the charge
+19. Give an SI unit for the physical quantity measured by the given instrument. Vernier callipers, Manometer, Pyrometer.   
+20. The intensity 2m from a point source of light is 25Wm^-2
+21. How far from the source is the intensity 10mWm^-2
+22. How far from the source is the intensity 16 times it’s value 2m from the source 
+23. What is the linear momentum of a 5kg object moving at 4m/s due East 
+24. A moving object has a linear momentum of magnitude 50Ns. What force is applied parallel to the direction of motion of the object can still stop it in 5s?
+25. At what speed will the magnitude of the linear momentum of a moving 2kg object be 80Ns
+26. A very wide cistern contains water to a depth of 5m. Find the speed with which water exits a narrow pipe at the bottom of the cistern 
+27. Two very large parallel plates 2cm apart are maintained at a potential difference of 10V. Find the magnitude of the electric field between them 
+28. Which of the following is not a distance unit: astronomical unit,arc second, parsec, light year, steradian?  
+29. Convert the given unit to a unit containing SI base units. Js, Wh, Na
+30. A converging lens of focal length 0.20m. Find the image distance when the object distance is 0.45 

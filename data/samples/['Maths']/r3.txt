@@ -1,0 +1,8 @@
+The product of two negative numbers is always positive. 
+The sum of the interior angles of a triangle is always 180 degrees. 
+The square root of a negative number is always imaginary. 
+The graph of a linear equation is always a straight line. 
+The probability of an event that is certain to happen is always 1. 
+The slope of a horizontal line is always 0. 
+The value of pi is exactly 3.14. 
+The Pythagorean theorem only applies to right triangles. 

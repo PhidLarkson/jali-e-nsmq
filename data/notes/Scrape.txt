@@ -1,0 +1,1 @@
+rocedural Programming§It is a derivative of structural programming§Based on the concept of dividing a program into sub-structures called procedures§Procedures are also referred to as subprograms, subroutines, functions or methods§C programming, Pascal, FORTRANare examples of procedural languages COE 351: Object-Oriented Prgramming8

@@ -1,0 +1,8 @@
+I am a number that is even and prime. Who am I? 
+I am a three-digit number. The second digit is four times the third digit. The first digit is three less than the second digit. Who am I?
+I am a fraction that is equal to 1/2 when you add me to myself. Who am I?
+I am a number that is equal to the product of my digits. Who am I?
+I am a shape that has four sides of equal length and four interior angles of equal measure. Who am I? 
+I am a number that is equal to the sum of the cubes of my digits. Who am I?
+I am a polygon that has twice as many sides as a pentagon. Who am I? 
+I am a number that is equal to the sum of the first four prime numbers. Who am I?
