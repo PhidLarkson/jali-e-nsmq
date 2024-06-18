@@ -1,12 +1,40 @@
-# jali-e-nsmq
- AI-powered learning platform for NSMQ contestants, consisting of two main components: a Django-based ASGI application, Streamlit and a microcontroller setup.
+# PROJECT JALI -EXTENDED [AFRICAIED HACKATHON BUILD]
+## The goal is to build an open-source, AI powered tool to help students prepare for the Ghana National Maths and Science Quiz competition - This tool is meant to address the equity problem in NSMQ training. Some schools lack more resources, facilities and platforms for studies.
 
-Absolutely, here's the complete README content you can paste into your project's README file:
+---
+
+### This project is built in python.
+
+To get started with the project, follow these steps:
+
+1. Create a virtual environment by running the following command:
+    ```
+    python -m venv myenv
+    ```
+
+2. Activate the virtual environment:
+    - On Windows:
+      ```
+      myenv\Scripts\activate
+      ```
+    - On macOS and Linux:
+      ```
+      source myenv/bin/activate
+      ```
+
+3. Install the required dependencies by running:
+    ```
+    pip install -r requirements.txt
+    ```
+
+4. Once the dependencies are installed, you can start the application by running:
+    ```
+    python startapp.py
 
 
-# THE SOCIAL PLATFORM
+## THE SOCIAL PLATFORM
 
-## Downloading a Folder from Google Drive with Commands
+### Downloading a Folder from Google Drive with Commands
 
 This README explains how to download a folder directly from your Google Drive to a specific directory on your computer using two popular methods:
 
