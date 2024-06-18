@@ -28,7 +28,7 @@ This README explains how to download a folder directly from your Google Drive to
  **Download the folder:**
 
    ```bash
-   gdown --folder --id <folder_id>
+   gdown --folder --id 1CzjJirt9OPBHD8ngPVHFT2LJ5BVIda2m
    ```
 
    * This command will download the entire folder and its contents to your current directory.
@@ -51,7 +51,7 @@ This README explains how to download a folder directly from your Google Drive to
    * Navigate to the main directory.
 
    ```bash
-   curl -L "https://drive.google.com/uc?export=download&id=<folder_id>" > folder.zip
+   curl -L "https://drive.google.com/drive/folders/1CzjJirt9OPBHD8ngPVHFT2LJ5BVIda2m?usp=sharing" >  africaied-jali.zip
    ```
 
    * This command will download the folder as a compressed ZIP archive named "folder.zip". You can rename the file after download.
@@ -61,7 +61,7 @@ This README explains how to download a folder directly from your Google Drive to
 * Once the download is complete (Method 2), you'll need to extract the contents of the ZIP archive:
 
 ```bash
-unzip folder.zip
+unzip africaied-jali.zip
 ```
 
 This will create a new directory named "folder" containing the downloaded files.
