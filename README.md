@@ -94,9 +94,4 @@ unzip africaied-jali.zip
 
 This will create a new directory named "folder" containing the downloaded files.
 
-**Important Notes:**
-
-* These methods only work for folders shared with "Anyone with the link" permission.
-* Be cautious when downloading from untrusted sources.
-
-I hope this helps! Feel free to modify the commands and file names as needed for your specific use case.
+Copy and paste the all the contents of the zip into the social-platform folder
